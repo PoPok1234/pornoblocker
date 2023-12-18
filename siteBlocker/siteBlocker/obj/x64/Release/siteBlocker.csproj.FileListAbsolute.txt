@@ -1,0 +1,7 @@
+C:\Users\popok\OneDrive\Рабочий стол\коды сШарп\siteBlocker\siteBlocker\bin\x64\Release\siteBlocker.exe.config
+C:\Users\popok\OneDrive\Рабочий стол\коды сШарп\siteBlocker\siteBlocker\bin\x64\Release\siteBlocker.exe
+C:\Users\popok\OneDrive\Рабочий стол\коды сШарп\siteBlocker\siteBlocker\bin\x64\Release\siteBlocker.pdb
+C:\Users\popok\OneDrive\Рабочий стол\коды сШарп\siteBlocker\siteBlocker\obj\x64\Release\siteBlocker.csproj.AssemblyReference.cache
+C:\Users\popok\OneDrive\Рабочий стол\коды сШарп\siteBlocker\siteBlocker\obj\x64\Release\siteBlocker.csproj.CoreCompileInputs.cache
+C:\Users\popok\OneDrive\Рабочий стол\коды сШарп\siteBlocker\siteBlocker\obj\x64\Release\siteBlocker.exe
+C:\Users\popok\OneDrive\Рабочий стол\коды сШарп\siteBlocker\siteBlocker\obj\x64\Release\siteBlocker.pdb
